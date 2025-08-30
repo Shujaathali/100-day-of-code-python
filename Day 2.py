@@ -20,35 +20,35 @@ print("hello world")
 print("1. New Line (\\n):")
 print("Hello\nWorld")
 
-print("\n2. Tab (\\t):")
+print("2. Tab (\\t):")
 print("Hello\tWorld")
 
-print("\n3. Backslash (\\\\):")
+print("3. Backslash (\\\\):")
 print("C:\\Users\\Shoaib")
 
-print("\n4. Single Quote (\\'):")
+print("4. Single Quote (\\'):")
 print('It\'s OK')
 
-print("\n5. Double Quote (\\\"):")
+print("5. Double Quote (\\\"):")
 print("He said \"Hi\"")
 
-print("\n6. Carriage Return (\\r):")
+print("6. Carriage Return (\\r):")
 print("Hello\rWorld")
 
-print("\n7. Backspace (\\b):")
+print("7. Backspace (\\b):")
 print("Helloo\b")
 
-print("\n8. Form Feed (\\f):")
+print("8. Form Feed (\\f):")
 print("Hello\fWorld")
 
-print("\n9. Bell Alert (\\a):")
+print("9. Bell Alert (\\a):")
 print("Beep sound if system supports\a")
 
-print("\n10. Vertical Tab (\\v):")
+print("10. Vertical Tab (\\v):")
 print("Hello\vWorld")
 
 # Raw string demo
-print("\n11. Raw String (r'...'):")
+print("11. Raw String (r'...'):")
 print(r"Hello\nWorld")
 
 #if you dont want to execute escape sequence characters so you can use this sequence print(r"write \nstring \fhere")
