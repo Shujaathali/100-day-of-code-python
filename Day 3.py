@@ -1,45 +1,43 @@
-# Now today we are learning how many builtin data types in python
-#There are 14 built in data types in python. In 14 data types only 5 data types has mutable and remaining 9 data types are immutable
-#1 Numerical
-#2 Text
-#3 Sequence
-#4 Set
-#5 Mapping
-#6 Boolean
-#7 binary
+#now today is day 4 of 100 day of python coding today we are learning about type casting so what is type casting?
+#type casting is a built in function in python and it's help to convert values type 
+a="4"
+b="6"
+print(a+b)#Output is 46
 
-'''1:-  Numerical
-Intiger   123456               Immutable
-Float  2.5 , 8.6               Immutable
-Complex number  4+6j  ,  5-9j  Immutable
+#because we are write 4 and 6 in string so python do concatenate means write 2 strings without any space eg:-
+y=12
+z=100
+print(a+b,y+z)
+#When integer your value come's in  string now you use type casating to conver it's type 
 
+print(int(a)+int(b))
 
-2:- Text
-String   "HELLO WORLD"         Immutable
+'''Primary Type Casting Functions
 
+Numeric types:int() - converts to integer
+float() - converts to floating-point numbercomplex() - converts to complex number
 
-3:- Sequence 
-List     [3,4,5,6,7]           Mutable
-Truple    (2,3,4,5)            Immutable
-Range    Range(5)              Immutable
+Text and sequences:
+ str() - converts to strin
+ glist() - converts to list
+ tuple() - converts to tuple
+ set() - converts to set
+ frozenset() - converts to frozen set
+ 
+ Other common types:
+ bool() - converts to boolean
+ dict() - converts to dictionary (from compatible iterables)
+ bytes() - converts to bytes object
+ bytearray() - converts to bytearray
+ 
+Examples# Numeric conversions
+x = int("123")        # "123" → 123
+y = float("3.14")     # "3.14" → 3.14
+z = str(42)           # 42 → "42"
 
+# Collection conversions
+my_list = list("hello")     # "hello" → ['h', 'e', 'l', 'l', 'o']
+my_tuple = tuple([1,2,3])   # [1,2,3] → (1, 2, 3)
+my_set = set([1,1,2,3])     # [1,1,2,3] → {1, 2, 3}
 
-
-4:-  Set
-
-Set    {2,3,4,5}                             Mutable
-Frozenset     frozenset{1,2,3} Immutable
-
-
-5:- Mapping
-Dictionary   {"a":1,"b":2}     Mutable
-
-6:-  Boolean
-Boolean   True, False          Immutable
-
-7:- Binary
-Bytes      b"abc"              Immutable                 
-Bytearray    bytearray(5)      Mutable
-memoryview  memoryview(b"abc") Mutable
-
-
+So there are approximately 10-12 primary type casting functions in Python's built-in functions, though the exact count depends on how you categorize them (some like bytes() and bytearray() are more specialized).'''
