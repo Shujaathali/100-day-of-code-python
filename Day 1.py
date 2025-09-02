@@ -1,5 +1,10 @@
-# Day1
+# Day 1 - Hello World
 
-print("hello world")
-print("My name is Mohammad Shujaath Ali and i am learning python")
-print("Today is 29 september and toady is my day one in 100 days of coding python journey")
+# This is my first Python program in the 100 Days of Code journey.
+
+print("Hello, world!")
+print("My name is Mohammad Shujaath Ali and I am learning Python.")
+print("Today is 29 September and today is my Day 1 in the 100 Days of Coding journey.")
+
+# Note:
+# print() is a built-in function in Python used to display output on the screen.
