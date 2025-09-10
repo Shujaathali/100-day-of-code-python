@@ -12,9 +12,9 @@ day05 input_function.py                    [ Taking user input, string vs intege
 day04 type_casting.py                      [ Type casting and conversions.]
 day06 strings.py                           [ Strings basics: single, double, triple quotes, multiline strings.]
 day07 len_function.py                      [ len() function with examples on multiple data types.]
-day08 String indexing and slicing.py       [learn indexing and slicing in simple words.]
-Day09 what are operator in python.py       [Small intro of all operators]
-
+day08 String indexing and slicing.py       [ learn indexing and slicing in simple words.]
+Day09 what are operator in python.py       [ Small intro of all operators]
+Day10  Arthemetic & Assignment operaotr.py [ Detain explaination of arthematic & assignment operators.]
 ✅ Progress
 [x] Day01  Hello World
 [x] Day02  Comments & Escape Sequences
@@ -25,3 +25,5 @@ Day09 what are operator in python.py       [Small intro of all operators]
 [x] Day07  len() Function
 [x] Day08  String indexing and slicing
 [x] Day09  what are operator in python.py
+[x] Day10  Arthemetic & Assignment operaotr
+[ ] Day11  Comming soon...................
