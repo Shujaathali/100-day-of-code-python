@@ -80,4 +80,5 @@ print(a >> 1)  # 3 (011)
 '''In short:
 Operators = tools
 Operands = data values on which operators work
+
 👉 Example: 10 + 5 → here + is operator, 10 and 5 are operands.'''
