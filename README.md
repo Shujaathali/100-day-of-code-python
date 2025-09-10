@@ -13,7 +13,7 @@ day04 type_casting.py                      [ Type casting and conversions.]
 day06 strings.py                           [ Strings basics: single, double, triple quotes, multiline strings.]
 day07 len_function.py                      [ len() function with examples on multiple data types.]
 day08 String indexing and slicing.py       [learn indexing and slicing in simple words.]
-
+Day09 what are operator in python.py       [Small intro of all operators]
 
 ✅ Progress
 [x] Day01  Hello World
@@ -24,4 +24,4 @@ day08 String indexing and slicing.py       [learn indexing and slicing in simple
 [x] Day06  Strings Basics
 [x] Day07  len() Function
 [x] Day08  String indexing and slicing
-[ ] Day09  Comming soon
+[x] Day09  what are operator in python.py
